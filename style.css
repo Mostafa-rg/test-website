@@ -1,0 +1,20 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    direction: rtl;
+    font-family: iransans;
+}
+.navigasion{
+    background-color: black !important;
+}
+.get-started{
+    /* width: 100px;
+    height: 50px; */
+}
+.get-started-btn{
+    padding: 10px 15px;
+    border: 4px solid white;
+    background-color: white;
+    border-radius: none !important;
+    outline: none;
+}
