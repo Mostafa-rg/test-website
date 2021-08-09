@@ -1,0 +1,167 @@
+@media only screen and (max-width:992px){
+    .car-colmn{
+        display: none;
+    }
+    .navbar-brand{
+        display: none !important;
+    }
+    .why-me > h2{
+        margin-top: 0em;
+    }
+    .why-me > h2{
+        font-size: 30px !important;
+    }
+    .why-me-p{
+        font-size: 18px !important;
+    }
+    .what-me-video{
+        margin-top: 3em !important;
+    }
+    .what-me-h-p{
+        width: 80% !important;
+    }
+    .animated-code{
+        display: none !important;
+    }
+}
+@media only screen and (max-width:768px){
+    .get-started-btn{
+        margin: 2em 15em;
+    }
+    .quote > p{
+        font-size: 20px !important;
+    }
+    .quote > h5{
+        font-size: 26px !important;
+    }
+    .double-quote{
+        font-size: 50px !important;
+    }
+    .email-input{
+        width: 80% !important;
+    }
+}
+@media only screen and (max-width:768px){
+    .get-started-btn{
+        margin: 2em 15em;
+        width: 7em;
+    }
+}
+@media only screen and (max-width:650px){
+    .get-started-btn{
+        display: none !important;
+    }
+    /* .login-btn{
+        display: none !important;
+    } */
+    .text-header{
+        width: 90% !important;
+    }
+    .text-header > p{
+        width: 100% !important;
+        margin-top: 5em;
+    }
+    .why-me > h2{
+        margin-top: 0em;
+        padding: 0 !important;
+    }
+    .education-header{
+        font-size: 26px !important;
+    }
+}
+@media only screen and (max-width:576px){
+    .get-started-btn{
+        display: none !important;
+    }
+
+    .text-header{
+        width: 100%;
+    }
+    .text-header > h1{
+        text-align: center;
+        font-size: 40px;
+    }
+    .why-me{
+        padding: 1em !important;
+    }
+    .why-me-p{
+        font-size: 16px !important;
+    }
+    .what-me-h-p{
+        width: 95% !important;
+    }
+    .search > h3{
+        font-size: 20px !important;
+    }
+    .quote > p{
+        font-size: 16px !important;
+    }
+    .quote > h5{
+        font-size: 20px !important;
+    }
+    .double-quote{
+        font-size: 40px !important;
+    }
+    .python-icon, .ui-icon, .server-icon, .laptop-icon{
+        display: none !important;
+    }
+    .educations-sizing{
+        width: 20em !important;
+        height: 20em !important;
+        border-radius: 30px 0 30px 0 !important;
+    }
+    .email-input{
+        width: 95% !important;
+    }
+}
+@media only screen and (max-width:493px){
+
+    .why-me > h2{
+        font-size: 30px !important;
+    }
+    .what-me-h-p > h2{
+        font-size: 30px !important;
+    }
+    .what-me-h-p > p{
+        margin-top: 1em;
+        font-size: 14px !important;
+    }
+}
+@media only screen and (max-width:430px){
+    .text-header > h1{
+        text-align: center;
+        font-size: 30px;
+    }
+    .text-header > p{
+        width: 100% !important;
+    }
+    .why-me > h2{
+        font-size: 24px !important;
+    }
+    .why-me-p{
+        font-size: 14px !important;
+    }
+    .quote > p{
+        font-size: 14px !important;
+    }
+    .quote > h5{
+        font-size: 18px !important;
+    }
+    .double-quote{
+        font-size: 35px !important;
+    }
+    .education-header{
+        font-size: 20px !important;
+    }
+}
+@media only screen and (max-width:374px){
+    .why-me > h2{
+        font-size: 20px !important;
+    }
+    .why-me-p{
+        font-size: 14px !important;
+    }
+    .newsletter-container > h2{
+        font-size: 24px !important;
+    }
+}
