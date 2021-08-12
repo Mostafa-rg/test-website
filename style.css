@@ -290,15 +290,20 @@ footer{
     background-color: #edf2fa;
     border:1px solid #d0d0d0;
 }
-.search-input::before{
-    content: url(pic/search_icon-48x.png);
-    margin-top: 3em;
-    z-index: 1000001;
-}
 .icon-size{
     font-size: 25px !important;
     transition: 0.1s;
 }
 .icon-size:hover{
     background-color: #0099ff !important;
+}
+.search-control::before{
+    position: absolute;
+    content: url(pic/search_icon-48x.png);
+    right: 95%;
+    top: 5px;
+}
+.search-control{
+    position: relative;
+    background-color: burlywood;
 }
